@@ -195,13 +195,3 @@ numpy
 python-dotenv
 ```
 ```
-
----
-
-A few things to do after pasting this:
-
-1. Replace `yourusername` in the clone URL with your actual GitHub username
-2. Add your demo GIF link once you record it
-3. Create a `.env.example` file in your root with just:
-```
-GROQ_API_KEY = your_groq_api_key
